@@ -1,2 +1,2 @@
 # distance-calculator
-Distance Calculator in For Node.js
+Google Distance Calculator in For Node.js
