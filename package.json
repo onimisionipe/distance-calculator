@@ -1,0 +1,25 @@
+{
+  "name": "distance-calculator",
+  "version": "1.0.0",
+  "description": "Google distance calculator for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onimisionipe/distance-calculator.git"
+  },
+  "keywords": [
+    "distance",
+    "distance-calculator",
+    "google-distance-calculator",
+    "google-api-for-calculating-distance"
+  ],
+  "author": "Onimisi Onipe (https://github.com/onimisionipe)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onimisionipe/distance-calculator/issues"
+  },
+  "homepage": "https://github.com/onimisionipe/distance-calculator"
+}
