@@ -1,4 +1,4 @@
-calc = require('./index.js')
+calc = require('distance-calculator')
 
 //short result format
 calc.calcDistance('ohio', 'chicago', 'ko', function(result){
